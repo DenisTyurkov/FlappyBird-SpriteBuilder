@@ -22,7 +22,7 @@ typedef NS_ENUM(NSInteger, DrawingOrder) {
     
     // Declare variables below this line
 
-    
+     float timeSinceObstacle;
 }
 
 -(void) initialize;
